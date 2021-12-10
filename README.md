@@ -3,4 +3,8 @@
 ![image](https://user-images.githubusercontent.com/93681159/145441521-a49f0965-b343-4913-91ee-4ed10c81acbb.png)
 ![image](https://user-images.githubusercontent.com/93681159/145441623-959b9a82-5442-4259-8474-2b3f44db618c.png)
 * ejercicio D literal 1
+
 ![image](https://user-images.githubusercontent.com/93681159/145494315-50202510-5f00-4aef-81d5-345a358c207d.png)
+* ejercicio F literal 4
+
+![image](https://user-images.githubusercontent.com/93681159/145647191-9f087f6e-64d2-4492-8b1d-25e625702b88.png)
