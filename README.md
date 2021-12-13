@@ -8,3 +8,7 @@
 * ejercicio F literal 4
 
 ![image](https://user-images.githubusercontent.com/93681159/145647191-9f087f6e-64d2-4492-8b1d-25e625702b88.png)
+
+13/12/2021 Ecuaciones de orden superior (Homogeneas)
+![image](https://user-images.githubusercontent.com/93681159/145860899-007ef8ef-919d-4447-967c-b713a1240f69.png)
+![image](https://user-images.githubusercontent.com/93681159/145861446-bd03407c-1049-4bbb-b599-ad283b2f7199.png)
