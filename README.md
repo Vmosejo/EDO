@@ -14,3 +14,6 @@
 ![image](https://user-images.githubusercontent.com/93681159/145861446-bd03407c-1049-4bbb-b599-ad283b2f7199.png)
 ### Formula de Abel
 ![image](https://user-images.githubusercontent.com/93681159/145929136-c9d6cdaa-ed59-42e9-9f78-470a7aed3c0b.png)
+## 14/12/2021 Homogeneas con coeficientes constanes
+![image](https://user-images.githubusercontent.com/93681159/146007835-40281ecd-51b3-4a12-b2d6-a27f9488df5a.png)
+![image](https://user-images.githubusercontent.com/93681159/146007855-82a29350-6b3a-4ee7-9b0d-86c978b0b189.png)
