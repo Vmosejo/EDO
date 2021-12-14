@@ -17,3 +17,4 @@
 ## 14/12/2021 Homogeneas con coeficientes constanes
 ![image](https://user-images.githubusercontent.com/93681159/146007835-40281ecd-51b3-4a12-b2d6-a27f9488df5a.png)
 ![image](https://user-images.githubusercontent.com/93681159/146007855-82a29350-6b3a-4ee7-9b0d-86c978b0b189.png)
+![image](https://user-images.githubusercontent.com/93681159/146066464-4bb4f890-bad3-43fb-b380-7c6ab595c67f.png)
