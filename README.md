@@ -21,3 +21,10 @@
 ![image](https://user-images.githubusercontent.com/93681159/146066464-4bb4f890-bad3-43fb-b380-7c6ab595c67f.png)
 ## 20/12/2021
 ![image](https://user-images.githubusercontent.com/93681159/146811303-9505f5b2-4bb4-4099-b780-902fe02b91e4.png)
+![image](https://user-images.githubusercontent.com/93681159/146812016-093c666e-2c1a-467c-92a8-28e595ff1e87.png)
+### Ejemplo 1
+![image](https://user-images.githubusercontent.com/93681159/146813150-3665b299-d0ae-478b-81cc-8e735bec0316.png)
+### Ejemplo 2
+![image](https://user-images.githubusercontent.com/93681159/146814254-4bdda9b1-00bd-45ec-9cca-1ed0af5de48d.png)
+### Ejemplo 3
+![image](https://user-images.githubusercontent.com/93681159/146815393-d3e185a1-2ed2-4275-8fcd-351cc0389ff2.png)
